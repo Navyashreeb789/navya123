@@ -4,6 +4,7 @@ public class hello
 	{
 		System.out.println("SE lab");
 		System.out.println("welcome to spt");
+		System.out.println("____________");
 	}
 }
 
